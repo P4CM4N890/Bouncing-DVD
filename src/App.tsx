@@ -1,10 +1,13 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+
 import './App.css';
+import { DVDIcon } from './components/DVDIcon';
 
 function App() {
+
   return (
     <div className='App'>
-      <h1>Hello World!</h1>
+        <DVDIcon width='22vw' color='#60D833' />
     </div>
   );
 }
