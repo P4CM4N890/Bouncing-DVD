@@ -5,8 +5,7 @@ interface Collision {
     vertical: number
 };
 
-    // TODO: add more colors
-const colors = [ '#60D833', 'blue', 'aqua', 'purple', 'orange', 'yellow' ];
+const colors = [ '#60D833', '#D500F9', '#651FFF', '#EF5350', '#FF8F00', '#F4FF81', '#BCAAA4', '#B0BEC5', '#9DE7D7', '#00B08B', '#FF585D', '#8DB9CA' ];
 
 export const useDimensions = () => {
 
