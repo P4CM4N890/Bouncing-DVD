@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Bouncing DVD Logo
+
+I made this project for fun.\
+Open [https://p4cm4n890.github.io/Bouncing-DVD/](https://p4cm4n890.github.io/Bouncing-DVD/) to view it.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
