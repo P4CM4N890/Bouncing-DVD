@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bouncing-DVD/static/css/main.14067df0.css",
+    "main.js": "/Bouncing-DVD/static/js/main.c70ee1df.js",
+    "static/js/787.2d082b17.chunk.js": "/Bouncing-DVD/static/js/787.2d082b17.chunk.js",
+    "index.html": "/Bouncing-DVD/index.html",
+    "main.14067df0.css.map": "/Bouncing-DVD/static/css/main.14067df0.css.map",
+    "main.c70ee1df.js.map": "/Bouncing-DVD/static/js/main.c70ee1df.js.map",
+    "787.2d082b17.chunk.js.map": "/Bouncing-DVD/static/js/787.2d082b17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14067df0.css",
+    "static/js/main.c70ee1df.js"
+  ]
+}
