@@ -1,7 +1,8 @@
 # Bouncing DVD Logo
 
 I made this project for fun.\
-Open [https://p4cm4n890.github.io/Bouncing-DVD/](https://p4cm4n890.github.io/Bouncing-DVD/) to view it.
+Open [https://p4cm4n890.github.io/Bouncing-DVD/](https://p4cm4n890.github.io/Bouncing-DVD/) to view it.\
+![](https://github.com/P4CM4N890/Bouncing-DVD/blob/main/src/img/Bouncing-DVD.gif)
 
 ## Getting Started with Create React App
 
